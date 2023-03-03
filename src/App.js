@@ -1,9 +1,9 @@
-import Welcome from "./Components/Welcome/Welcome";
+import Home from "./component/Home/Home";
 
 function App() {
   return (
     <div className="App">
-      <Welcome/>
+      <Home/>
     </div>
   );
 }
